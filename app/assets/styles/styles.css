@@ -4,7 +4,7 @@ body {
   color: $mainBlue;
   padding: 25px;
   margin: 10px;
-  columns: 300px;
+  columns: 290px 2;
 }
 
 .box {

@@ -5,7 +5,6 @@ var gulp = require('gulp'),
   cssvars = require('postcss-simple-vars'),
   nested = require('postcss-nested');
 
-
 gulp.task('default', function () {
   console.log('hurray you created a gulp task');
 })

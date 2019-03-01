@@ -2,8 +2,8 @@ body {
   color: #2f5572;
   padding: 25px;
   margin: 10px;
-  -webkit-columns: 300px;
-          columns: 300px;
+  -webkit-columns: 290px;
+          columns: 290px;
 }
 
 .box a {
